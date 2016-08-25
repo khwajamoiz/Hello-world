@@ -6,6 +6,7 @@ Local change 1.
 Local change 2.
 Local change 3.
 Local change 4.
+Local change 5.
 
 Remote change 1.
 Remote change 2.
