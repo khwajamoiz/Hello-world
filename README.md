@@ -2,18 +2,4 @@
 Learning how to use github.
 I am Khwaja Moiz from JIIT Noida.
 
-Local change 1.
-Local change 2.
-Local change 3.
-Local change 4.
-<<<<<<< HEAD
-Local change 5.
-=======
->>>>>>> 6a4e995941a30cd85e9ad21ee8c35a39c662911c
-
-Remote change 1.
-Remote change 2.
-Remote change 3.
-Remote change 4.
-Remote change 5.
-Remote change 6.
+Local change 1
