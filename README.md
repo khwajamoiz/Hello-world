@@ -6,7 +6,10 @@ Local change 1.
 Local change 2.
 Local change 3.
 Local change 4.
+<<<<<<< HEAD
 Local change 5.
+=======
+>>>>>>> 6a4e995941a30cd85e9ad21ee8c35a39c662911c
 
 Remote change 1.
 Remote change 2.
